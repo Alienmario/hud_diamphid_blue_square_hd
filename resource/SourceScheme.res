@@ -59,8 +59,8 @@ Scheme
 		ComboBoxButton.DisabledBgColor			"10 10 10 255"
 
 		Frame.TitleTextInsetX				"32"
-		Frame.ClientInsetX				"32"
-		Frame.ClientInsetY				"24"
+		Frame.ClientInsetX				"0"
+		Frame.ClientInsetY				"0"
 		Frame.BgColor					"50 50 50 160"
 		Frame.OutOfFocusBgColor				"50 50 50 120"
 		Frame.FocusTransitionEffectTime			"0.45"
@@ -245,9 +245,9 @@ Scheme
 			"1"
 			{
 				"name"		"Arial"
-				"tall"		"32"
+				"tall"		"24"
 				"antialias" "1"
-				"weight"	"500"
+				"weight"	"1000"
 			}
 		}
 		"DefaultBold"
