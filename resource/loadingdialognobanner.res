@@ -60,7 +60,7 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_Cancel"
-		"textAlignment"		"west"
+		"textAlignment"		"center"
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"command"		"Cancel"
